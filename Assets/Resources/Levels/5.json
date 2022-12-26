@@ -1,0 +1,278 @@
+{
+    "id": 5,
+    "width": 8,
+    "height": 8,
+    "tiles": [
+        {
+            "type": "Empty",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "Empty",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "Empty",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "RandomBlock",
+            "$type": "BlockTile"
+        },
+        {
+            "type": "Empty",
+            "$type": "BlockTile"
+        }
+    ],
+    "limitType": "Moves",
+    "moveLimit": 19,
+    "availableColors": [
+        "Blue",
+        "Yellow",
+        "Red"
+    ],
+    "spriteATresHold": 4,
+    "spriteBTresHold": 7,
+    "spriteCTresHold": 9,
+    "score1": 500,
+    "score2": 600,
+    "score3": 900,
+    "awardBoostersWithRemainingMoves": true,
+    "awardedBoosterType": "Dynamite"
+}

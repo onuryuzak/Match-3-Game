@@ -1,0 +1,19 @@
+{
+    "defaultTileScore": 10,
+    "tileScoreOverrides": [],
+    "boosterNeededMatches": {
+        "HorizontalBomb": 4,
+        "VerticalBomb": 7,
+        "Dynamite": 9,
+        "ColorBomb": 10
+    },
+    "ingameBoosterAmount": {
+        "HorizontalBomb": 1,
+        "VerticalBomb": 1,
+        "Dynamite": 1,
+        "ColorBomb": 1
+    },
+    "defaultZoomLevel": 1.4,
+    "defaultCanvasScalingMatch": 0.5,
+    "resolutionOverrides": []
+}
